@@ -9,7 +9,7 @@ const ProductCard: React.FC = () => {
           <img
             src="https://file.rendit.io/n/Gz7B7dhFRdElNrxLiAt9.png"
             className="product-image"
-            alt="Product Image"
+            alt="Product Images"
           />
           <div className="product-price">$100</div>
           <div className="product-name">Zebronics head phone</div>
